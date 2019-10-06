@@ -1,0 +1,6 @@
+C:\DEBS-2019-2Q\web\final2\EjemploFinal\EjemploFinal\bin\EjemploFinal.dll
+C:\DEBS-2019-2Q\web\final2\EjemploFinal\EjemploFinal\bin\EjemploFinal.pdb
+C:\DEBS-2019-2Q\web\final2\EjemploFinal\EjemploFinal\bin\DEBSAccesoSQL.dll
+C:\DEBS-2019-2Q\web\final2\EjemploFinal\EjemploFinal\obj\Debug\EjemploFinal.csprojResolveAssemblyReference.cache
+C:\DEBS-2019-2Q\web\final2\EjemploFinal\EjemploFinal\obj\Debug\EjemploFinal.dll
+C:\DEBS-2019-2Q\web\final2\EjemploFinal\EjemploFinal\obj\Debug\EjemploFinal.pdb
